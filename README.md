@@ -26,3 +26,8 @@ You can find me and follow me on my social networks:
 
   ✔ Linkedin: https://www.linkedin.com/in/jerald-espinoza/
   ✔ Twitter: https://twitter.com/EspinozaJerald
+  
+My other project repositories:
+
+  ✔ Hugging Face: https://huggingface.co/jeraldflowers
+  ✔ Deepnote: https://deepnote.com/@jerald-jeanphierre-espinoza-flores
