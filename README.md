@@ -25,7 +25,7 @@ During my experience developing and working on personal projects doing explorato
 You can find me and follow me on my social networks:
 
   ✔ Linkedin: https://www.linkedin.com/in/jerald-espinoza/
-  ✔ Twitter: https://twitter.com/EspinozaJerald
+  ✔ Twitter: https://twitter.com/jeraldflowersAI
   
 My other project repositories:
 
